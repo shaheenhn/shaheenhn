@@ -7,7 +7,7 @@
  
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl" target="_blank">
+  <a aria-label="Join our chats" href="[https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl](https://chat.whatsapp.com/CZB8mMaEFxWIUmgZdI7ORQ)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
@@ -115,7 +115,7 @@ Volla Bot is Working.
   
 # Youtube Tutorial For Hosting bot on Heroku
   
- <a href="https://youtu.be/4u0uv3IiAAc">
+ <a href="https://youtu.be/wXICulWvhko">
     <img alt="YouTube Tutorial" height="128" src="https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Secktor-Images/image.png">
   </a>
   
